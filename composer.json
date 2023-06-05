@@ -1,0 +1,16 @@
+{
+    "name": "olayiwola/refactoring",
+    "description": "Refactoring Deep Dive",
+    "autoload": {
+        "psr-4": {
+            "Ola\\Refactoring\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "olaysco",
+            "email": "olayiwolaodunsi@gmail.com"
+        }
+    ],
+    "require": {}
+}
